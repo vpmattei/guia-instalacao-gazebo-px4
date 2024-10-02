@@ -1,5 +1,3 @@
-# guia-instalacao-gazebo-px4
-
 # Guia de instalação Gazebo e PX4 no Ubuntu 20.04 LTS
 
 ## Vinicius Mattei - 02/10/2024
