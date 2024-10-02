@@ -6,22 +6,6 @@
 
 ---
 
-## Índice
-
-- [Instalar Ubuntu 20.04.6 LTS](#instalar-ubuntu-20046-lts)
-- [Instalar ROS](#instalar-ros)
-  - [Configurar o sources.list](#configurar-o-sourceslist)
-  - [Configurar suas chaves](#configurar-suas-chaves)
-  - [Instalação](#instalacao)
-  - [Configuração do ambiente](#configuracao-do-ambiente)
-  - [Dependências para construir os pacotes](#dependencias-para-construir-os-pacotes)
-  - [Inicializar o rosdep](#inicializar-o-rosdep)
-- [Instalar o PX4](#instalar-o-px4)
-  - [Instalar as dependências](#instalar-as-dependencias)
-- [Instalar QGroundControl](#instalar-qgroundcontrol)
-
----
-
 ## 1. Instalar Ubuntu 20.04.6 LTS
 
 Instale a versão 20.04.6 LTS de Ubuntu seguindo este [link](https://releases.ubuntu.com/focal/), é importante instalar esta versão e não uma versão posterior ou anterior pois muitas das bibliotecas só funcionam nesta versão de Ubuntu.
