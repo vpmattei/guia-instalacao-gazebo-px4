@@ -2,25 +2,23 @@
 
 ![Ubuntu 20.04](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_1280,h_768/https://ubuntu.com/wp-content/uploads/a728/2020-04-23-13.05.21.jpg)
 
-
-
 ## Vinicius Mattei - 02/10/2024
 
 ---
 
 ## Índice
 
-1. [Instalar Ubuntu 20.04.6 LTS](#instalar-ubuntu-20046-lts)
-2. [Instalar ROS](#instalar-ros)
-    1. [Configurar o sources.list](#configurar-o-sourceslist)
-    2. [Configurar suas chaves](#configurar-suas-chaves)
-    3. [Instalação](#instalacao)
-    4. [Configuração do ambiente](#configuracao-do-ambiente)
-    5. [Dependências para construir os pacotes](#dependencias-para-construir-os-pacotes)
-    6. [Inicializar o rosdep](#inicializar-o-rosdep)
-3. [Instalar o PX4](#instalar-o-px4)
-    1. [Instalar as dependências](#instalar-as-dependencias)
-4. [Instalar QGroundControl](#instalar-qgroundcontrol)
+- [Instalar Ubuntu 20.04.6 LTS](#instalar-ubuntu-20046-lts)
+- [Instalar ROS](#instalar-ros)
+  - [Configurar o sources.list](#configurar-o-sourceslist)
+  - [Configurar suas chaves](#configurar-suas-chaves)
+  - [Instalação](#instalacao)
+  - [Configuração do ambiente](#configuracao-do-ambiente)
+  - [Dependências para construir os pacotes](#dependencias-para-construir-os-pacotes)
+  - [Inicializar o rosdep](#inicializar-o-rosdep)
+- [Instalar o PX4](#instalar-o-px4)
+  - [Instalar as dependências](#instalar-as-dependencias)
+- [Instalar QGroundControl](#instalar-qgroundcontrol)
 
 ---
 
@@ -34,7 +32,7 @@ Instale a versão 20.04.6 LTS de Ubuntu seguindo este [link](https://releases.ub
 
 Agora que já tem o sistema operacional Ubuntu 20.04.6 instalado, podemos seguir para a instalação de Gazebo, mas antes disso temos que instalar suas dependências, no caso são o ROS e o PX4.
 
-[Guia oficial para esta instalação](https://docs.px4.io/main/en/ros/mavros_installation.html#ros-noetic-(ubuntu-22.04))
+[Guia oficial para esta instalação](<https://docs.px4.io/main/en/ros/mavros_installation.html#ros-noetic-(ubuntu-22.04)>)
 
 ### 2.a Configurar o sources.list
 
@@ -112,4 +110,3 @@ chmod +x ./QGroundControl.AppImage
 ```
 
 [Baixar QGroundControl](https://d176tv9ibo4jno.cloudfront.net/latest/QGroundControl.AppImage)
-
