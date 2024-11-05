@@ -18,7 +18,7 @@ Agora que já tem o sistema operacional Ubuntu 20.04.6 instalado, podemos seguir
 
 [Guia oficial usado como referência](<https://docs.px4.io/main/en/ros/mavros_installation.html#ros-noetic-(ubuntu-22.04)>)
 
-*Fiz algumas modificações ao guia acima pois estava encontrando alguns erros na hora da instalção, então é importante seguir o guia abaixo e não o oficial caso não queira ter nenhum problema na hora da instalação.*
+**Fiz algumas modificações ao guia acima pois estava encontrando alguns erros na hora da instalção, então é importante seguir o guia abaixo e não o oficial caso não queira ter problema na hora da instalação.*
 
 ### 2.a Configurar o sources.list
 
