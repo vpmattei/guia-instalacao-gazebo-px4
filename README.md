@@ -16,7 +16,9 @@ Instale a versão 20.04.6 LTS de Ubuntu seguindo este [link](https://releases.ub
 
 Agora que já tem o sistema operacional Ubuntu 20.04.6 instalado, podemos seguir para a instalação de Gazebo, mas antes disso temos que instalar suas dependências, no caso são o ROS e o PX4.
 
-[Guia oficial para esta instalação](<https://docs.px4.io/main/en/ros/mavros_installation.html#ros-noetic-(ubuntu-22.04)>)
+[Guia oficial usado como referência](<https://docs.px4.io/main/en/ros/mavros_installation.html#ros-noetic-(ubuntu-22.04)>)
+
+*Fiz algumas modificações ao guia acima pois estava encontrando alguns erros na hora da instalção, então é importante seguir o guia abaixo e não o oficial caso não queira ter nenhum problema na hora da instalação.*
 
 ### 2.a Configurar o sources.list
 
