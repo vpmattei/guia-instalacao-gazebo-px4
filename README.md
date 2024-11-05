@@ -23,7 +23,7 @@ podemos seguir para a instalação de Gazebo, mas antes disso temos que
 instalar suas dependências, no caso são o ROS e o PX4. [Aqui está o guia](<https://docs.px4.io/main/en/ros/mavros_installation.html#ros-noetic-(ubuntu-22.04)>) oficial para esta instalação para usar como referência, nós vamos seguir este guia mas vamos fazer as coisas um pouquinho diferente.
 
   Primeiramente vamos instalar o ROS Noetic usando este guia, use-o
-como referência caso precise de mais informações, se não siga os próximos
+como referência caso precise de mais informações, caso contrário, siga os próximos
 passos :
 
 ### 2.a Configurar o sources.list
