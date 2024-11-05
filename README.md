@@ -208,7 +208,7 @@ terminal ou clicando duas vezes no arquivo baixado.
 ./QGroundControl.AppImage
 ```
 
-  Para fechar com chave de ouro, se dirija até o repertório do PX4 e
+  Para fechar com chave 🔑 de ouro, se dirija até o repertório do PX4 e
 execute o comando seguinte para rodar uma simulação com um avião VTOL
 (note que você tem que rodar o QGroundControl antes de rodar o
 Gazebo+PX4).
