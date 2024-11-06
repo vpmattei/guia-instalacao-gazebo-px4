@@ -2,7 +2,7 @@
 
 ![Ubuntu 20.04](https://res.cloudinary.com/canonical/image/fetch/f_auto,q_auto,fl_sanitize,c_fill,w_1280,h_768/https://ubuntu.com/wp-content/uploads/a728/2020-04-23-13.05.21.jpg)
 
-Vinícius Mattei - Última atualização: 05/11/2024
+Vinícius Mattei - Última atualização: 06/11/2024
 
 ---
 
