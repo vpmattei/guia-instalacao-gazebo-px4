@@ -68,6 +68,9 @@ echo "source /opt/ros/noetic/setup.bash" >> ~/.bashrc
 source ~/.bashrc
 ```
 
+Caso seu arquivo esteja no formato ZSH rode este comando abaixo:
+
+
 ```zsh
 echo "source /opt/ros/noetic/setup.zsh" >> ~/.zshrc
 source ~/.zshrc
